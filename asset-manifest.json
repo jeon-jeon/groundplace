@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/groundplace/static/css/main.f2e3bb6d.css",
+    "main.js": "/groundplace/static/js/main.20a73b4d.js",
+    "index.html": "/groundplace/index.html",
+    "main.f2e3bb6d.css.map": "/groundplace/static/css/main.f2e3bb6d.css.map",
+    "main.20a73b4d.js.map": "/groundplace/static/js/main.20a73b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e3bb6d.css",
+    "static/js/main.20a73b4d.js"
+  ]
+}
