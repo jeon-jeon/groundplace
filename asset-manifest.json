@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/groundplace/static/css/main.f2e3bb6d.css",
+    "main.css": "/groundplace/static/css/main.263883ec.css",
     "main.js": "/groundplace/static/js/main.20a73b4d.js",
     "index.html": "/groundplace/index.html",
-    "main.f2e3bb6d.css.map": "/groundplace/static/css/main.f2e3bb6d.css.map",
+    "main.263883ec.css.map": "/groundplace/static/css/main.263883ec.css.map",
     "main.20a73b4d.js.map": "/groundplace/static/js/main.20a73b4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2e3bb6d.css",
+    "static/css/main.263883ec.css",
     "static/js/main.20a73b4d.js"
   ]
 }
